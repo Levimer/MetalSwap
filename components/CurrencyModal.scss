@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+.ButtonText{
+    background: none;
+    border: 0ch;
+}
+
+#metalsDatalist{
+    width: 95%;
+    display: flex;
+
+}
+    
+.ModalStyle{
+  font-family: 'Source Code Pro', monospace;
+}
+
+
+
+.myCustomList::-webkit-scrollbar {
+    width: 12px;
+    border: none;
+  }
+  
+  .myCustomList::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #00f4cc;
+  }
+
+.myCustomList{
+    background-color: #023453;
+
+    
+}
